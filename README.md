@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Web Software Engineer</h1>
+<h1 align="center">🚀 Web Software Full-Stack Estudante</h1>
 
 <p align="center">
   Desenvolvedor focado em criar aplicações modernas, eficientes e bem estruturadas.<br/>
@@ -29,15 +29,15 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-ryan&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ryan&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao-ryan&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -49,20 +49,13 @@
 </p>
 
 ---
-
-## 🎥 Anime Zone (4K Energy)
-
-### ⚔️ Roronoa Zoro
 <p align="center">
   <img src="https://media.tenor.com/EXEMPLO_ZORO_4K.gif" width="90%" />
 </p>
-
-### 🔥 Sanemi Shinazugawa
 <p align="center">
   <img src="https://media.tenor.com/EXEMPLO_SANEMI_4K.gif" width="90%" />
 </p>
 
-> 🔁 **Troque os links acima pelos seus GIFs 4K favoritos**
 
 ---
 
