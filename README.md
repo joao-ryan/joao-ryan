@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">🚀 Web Software Engineer</h1>
 
-<!--
-**joao-ryan/joao-ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor focado em criar aplicações modernas, eficientes e bem estruturadas.<br/>
+  Apaixonado por tecnologia, performance e código limpo.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+### 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🧠 Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,python,c" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+</p>
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Game (Jogo da Cobrinha)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎥 Anime Zone (4K Energy)
+
+### ⚔️ Roronoa Zoro
+<p align="center">
+  <img src="https://media.tenor.com/EXEMPLO_ZORO_4K.gif" width="90%" />
+</p>
+
+### 🔥 Sanemi Shinazugawa
+<p align="center">
+  <img src="https://media.tenor.com/EXEMPLO_SANEMI_4K.gif" width="90%" />
+</p>
+
+> 🔁 **Troque os links acima pelos seus GIFs 4K favoritos**
+
+---
+
+## 🧩 Sobre mim
+
+- 💻 Full Stack Developer  
+- 🚀 Foco em performance, organização e escalabilidade  
+- 🧠 Sempre estudando arquitetura, boas práticas e clean code  
+- 🎯 Objetivo: construir soluções reais que impactem pessoas  
+
+---
+
+## 📬 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN  
+- 📧 Email: seuemail@gmail.com  
+
+---
+
+<p align="center">
+  <strong>⚡ "Code. Train. Evolve."</strong>
+</p>
