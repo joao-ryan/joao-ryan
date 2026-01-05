@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG148.png" width="250"/>
+ <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG132.png" width="220"/>
 </p>
 
 ---
@@ -26,9 +27,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-ryan&theme=algolia)
 
 ---
-<p align="center">
- <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG132.png" width="220"/>
-</p>
 
 ![Instagram](https://img.shields.io/badge/Instagram-007FFF?style=for-the-badge&logo=instagram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-007FFF?style=for-the-badge&logo=whatsapp&logoColor=white)
