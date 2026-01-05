@@ -13,12 +13,22 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG148.png" width="250"/>
+</p>
+
+---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-ryan&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-ryan&theme=algolia)
 
-###
+---
+<p align="center">
+ <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG132.png" width="220"/>
+</p>
 
 ![Instagram](https://img.shields.io/badge/Instagram-007FFF?style=for-the-badge&logo=instagram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-007FFF?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -26,5 +36,6 @@
 ![Discord](https://img.shields.io/badge/Discord-007FFF?style=for-the-badge&logo=discord&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-007FFF?style=for-the-badge&logo=tiktok&logoColor=white)
 
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CE0F7&width=435&lines=Aproveite+meu+reposit%C3%B3rio%2C+que+tal+Conversamos%3F!)](https://git.io/typing-svg)
