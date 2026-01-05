@@ -1,6 +1,3 @@
-<h2 align="left">
-  Hi 👋! My name is João Ryan and I'm a Full-Stack Student Developer, from Brazil 🇧🇷
-</h2>
 
 ###
 
@@ -59,6 +56,8 @@
 
 ###
 <div align="center">
+
+[!](https://github-readme-streak-stats.herokuapp.com?user=joao-ryan&theme=tokyonight&border_radius=10&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-ryan&theme=aura)
