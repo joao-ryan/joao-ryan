@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=random&text=Seja%20Bem-vindo&fontSize=48&fontAlignY=38&font=Inter&desc=Meu%20repositório%20pessoal,%20de%20estudos%20e%20para%20desenvolvimento%20profissional&descAlignY=66&descSize=18)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7EE8FA,50:F6A5C0,100:E6D9FF&text=Seja%20Bem-vindo&fontSize=48&fontAlignY=38&font=Inter&fontColor=ffffff&desc=Meu%20repositório%20pessoal,%20de%20estudos%20e%20para%20desenvolvimento%20profissional&descAlignY=66&descSize=18)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-ryan&theme=algolia)
