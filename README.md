@@ -59,6 +59,11 @@
 
 ###
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=algolia)
+
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" />
