@@ -60,10 +60,9 @@
 ###
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-ryan&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-ryan&theme=algolia)]
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joao-ryan&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-ryan&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-ryan&theme=aura)]
 </div>
 
 ###
