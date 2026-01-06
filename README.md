@@ -16,10 +16,10 @@
 ---
 
 <p align="center">
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG148.png" width="220"/>
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG132.png" width="190"/>
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG105.png" width="220"/>
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG122.png" width="190"/>
+  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG150.png" width="220"/>
+  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG127.png" width="190"/>
+  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG159.png" width="220"/>
+  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG161.png" width="190"/>
 </p>
 
 
