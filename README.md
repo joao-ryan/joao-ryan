@@ -28,7 +28,7 @@
 
 ### Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,intelliJ,pycharm"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,intellijea,pycharm"/>
 </p>
 
 ---
