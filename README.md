@@ -1,42 +1,114 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Seja%20Bem-vindo&desc=Aproveite%20meu%20repositório%20de%20estudos%20e%20desenvolvimento%20profissional&descAlignY=65)
-
+<!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=João%20Ryan&desc=Desenvolvedor%20em%20Formação%20🚀&descAlignY=65&animation=fadeIn"/>
 </p>
 
 ---
 
+<!-- FRASE ANIMADA -->
 <p align="center">
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG150.png" width="220"/>
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG127.png" width="190"/>
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG159.png" width="220"/>
-  <img src="https://pngimg.com/uploads/pokemon/pokemon_PNG161.png" width="190"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+universo+de+código!;Estudando+todos+os+dias+🚀;Futuro+Dev+Full+Stack;Disciplina+%2B+Foco+%2B+Consistência" />
 </p>
 
+---
+
+## 🧠 Sobre Mim
+
+💻 Estudante de Informática  
+🚀 Focado em evolução constante  
+📚 Sempre aprendendo algo novo  
+🔥 Buscando me tornar Desenvolvedor Full Stack  
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-ryan&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-ryan&theme=algolia)
+# ⚡ Minha Stack Principal
+
+## 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap"/>
+</p>
+
+## 🧠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c"/>
+</p>
+
+## 🗄 Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>
+</p>
+
+## ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,docker"/>
+</p>
+
+## 🛠 Ferramentas & IDEs
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma,linux,windows"/>
+</p>
 
 ---
 
-![Instagram](https://img.shields.io/badge/Instagram-007FFF?style=for-the-badge&logo=instagram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-007FFF?style=for-the-badge&logo=whatsapp&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-007FFF?style=for-the-badge&logo=discord&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-007FFF?style=for-the-badge&logo=tiktok&logoColor=white)
+# 🎮 Pokémon Power ⚡
+
+<p align="center">
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="200"/>
+</p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CE0F7&width=435&lines=Aproveite+meu+reposit%C3%B3rio%2C+que+tal+Conversamos%3F!)](https://git.io/typing-svg)
+# 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-ryan&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ryan&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Metas 2026
+
+- [x] Dominar HTML e CSS
+- [x] Aprender JavaScript
+- [x] Criar projetos práticos
+- [ ] Construir API própria
+- [ ] Criar SaaS
+- [ ] Conseguir estágio na área
+- [ ] Contribuir para Open Source
+
+---
+
+# 🌎 Vamos Conectar?
+
+<p align="center">
+  <a href="https://instagram.com/SEU_LINK">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/SEU_ID">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<!-- RODAPÉ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
