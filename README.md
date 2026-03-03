@@ -1,31 +1,31 @@
-<!-- ================================================= -->
-<!-- ================ ANIMATED BANNER ================ -->
-<!-- ================================================= -->
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=280&text=JOÃO%20RYAN&fontSize=60&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=Software%20Engineer%20•%20Creative%20Builder&descAlignY=65&color=0:ff0080,25:7928ca,50:2af598,75:00c6ff,100:ff512f"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=JOÃO%20RYAN&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Engenheiro%20de%20Software%20•%20Construindo%20Soluções%20Escaláveis&descAlignY=65&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=$+whoami;João+Ryan+-+Software+Engineer;$+echo+'Building+Systems+With+Impact';$+npm+run+evolution"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=$+whoami;João+Ryan+-+Engenheiro+de+Software;$+foco=Backend+%26+Arquitetura;$+modo=Evolução+Constante"/>
 </p>
 
 ---
 
-# 🧠 WHO_AM_I
+# 🧠 PERFIL PROFISSIONAL
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ```bash
-$ whoami
+$ perfil
 
-> João Ryan
-> Software Engineer
-> Focused on backend architecture
-> Building scalable systems
-> Evolving daily.
+Nome: João Ryan
+Cargo: Engenheiro de Software
+Foco: Backend • Sistemas • Web
+Stack Principal: JS • Python • Java
+Localização: Brasil
+Mentalidade: Disciplina > Motivação
+Objetivo: Escalabilidade e Performance
 ```
 
 </td>
@@ -33,15 +33,14 @@ $ whoami
 <td width="50%" valign="top">
 
 ```bash
-$ cat info.json
+$ status_tecnico
 
-{
-  "location": "Brazil",
-  "main_stack": ["JavaScript", "Python", "Java"],
-  "learning": ["System Design", "Backend Patterns"],
-  "mindset": "Discipline > Motivation",
-  "status": "In Progress"
-}
+Arquitetura: Em evolução
+Boas práticas: Clean Code
+Versionamento: Git Flow
+Metodologias: Ágil
+Interesse atual: System Design
+Nível atual: Desenvolvimento contínuo
 ```
 
 </td>
@@ -50,43 +49,28 @@ $ cat info.json
 
 ---
 
-# 💬 GIT_BASH_LOG
-
-```bash
-joao@github:~$ git status
-On branch main
-Your life is ahead of commits.
-
-joao@github:~$ git commit -m "improving myself"
-[main] +1 skill unlocked
-
-joao@github:~$ sudo evolve --level up
-Access granted.
-Engineer upgraded.
-```
-
----
-
-# ⚙ TECH GRID
+# ⚙ STACK TECNOLÓGICA
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### FRONTEND
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind&theme=dark"/>
 
 </td>
+
 <td align="center" width="33%">
 
-### BACKEND
+**Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c&theme=dark"/>
 
 </td>
+
 <td align="center" width="33%">
 
-### DATABASE & TOOLS
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,docker,linux&theme=dark"/>
+**Banco de Dados**  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark"/>
 
 </td>
 </tr>
@@ -94,26 +78,48 @@ Engineer upgraded.
 
 ---
 
-# 📊 ENGINEERING DASHBOARD
+# 🖥️ AMBIENTE DE DESENVOLVIMENTO
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Ferramentas & DevOps**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash&theme=dark"/>
+
+</td>
+
+<td align="center" width="50%">
+
+**IDEs & Editores**  
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 MÉTRICAS DE DESENVOLVIMENTO
 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joao-ryan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joao-ryan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ryan&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-ryan&theme=tokyonight&hide_border=true&background=0D1117"/>
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ryan&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 CONTRIBUIÇÕES
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -121,24 +127,6 @@ Engineer upgraded.
 
 ---
 
-# 🏆 TROPHIES
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joao-ryan&theme=radical&no-frame=true&column=7"/>
-</p>
-
----
-
-# 🌐 CONNECT
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-ff0080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-7928ca?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-00c6ff?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ff0080,50:00c6ff,100:2af598&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 </p>
