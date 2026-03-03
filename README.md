@@ -56,7 +56,7 @@ Nível atual: Desenvolvimento contínuo
 <td align="center" width="33%">
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark"/>
 
 </td>
 
@@ -70,7 +70,7 @@ Nível atual: Desenvolvimento contínuo
 <td align="center" width="33%">
 
 **Banco de Dados**  
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark"/>
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ Nível atual: Desenvolvimento contínuo
 <td align="center" width="50%">
 
 **IDEs & Editores**  
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,antigravity&theme=dark"/>
 
 </td>
 </tr>
