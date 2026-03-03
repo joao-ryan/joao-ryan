@@ -13,7 +13,7 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind"/>
 </p>
 
 ### Backend
@@ -23,12 +23,12 @@
 
 ### Banco de Dados
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite"/>
 </p>
 
 ### Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,intelliJ,pycharm"/>
 </p>
 
 ---
