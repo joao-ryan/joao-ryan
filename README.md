@@ -1,11 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=JOÃO%20RYAN&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Engenheiro%20de%20Software%20•%20Construindo%20Soluções%20Escaláveis&descAlignY=65&color=0:0f2027,50:203a43,100:2c5364"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=$+whoami;João+Ryan+-+Engenheiro+de+Software;$+foco=Backend+%26+Arquitetura;$+modo=Evolução+Constante"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=JOÃO%20RYAN&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20de%20Full-Stack%20•%20Construindo%20Soluções%20Escaláveis&descAlignY=65&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
 ---
@@ -20,12 +16,11 @@
 $ perfil
 
 Nome: João Ryan
-Cargo: Engenheiro de Software
-Foco: Backend • Sistemas • Web
-Stack Principal: JS • Python • Java
-Localização: Brasil
-Mentalidade: Disciplina > Motivação
-Objetivo: Escalabilidade e Performance
+Cargo: Desenvolvedor Full-Stack Junior
+Foco: Front-End - Web Services 
+Stack Principal: React - Typescript - Python
+Localização: Brasil | Ceará
+Objetivo: Escalabilidade e Performance e busco aprendizado constante
 ```
 
 </td>
@@ -40,7 +35,7 @@ Boas práticas: Clean Code
 Versionamento: Git Flow
 Metodologias: Ágil
 Interesse atual: System Design
-Nível atual: Desenvolvimento contínuo
+Nível atual: Desenvolvimento contínuo e cada vez mais buscando novas ferramentas e aprendizagens
 ```
 
 </td>
